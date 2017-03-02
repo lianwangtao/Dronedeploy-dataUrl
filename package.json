@@ -8,5 +8,8 @@
     "start": "node server.js"
   },
   "author": "Shane Lian",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.0"
+  }
 }
